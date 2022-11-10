@@ -19,5 +19,5 @@ def perm_alone(string) :
     return len(list(perms_alone))
 
 
-result1 = 'nnnbb'
+result1 = 'abfdefa'
 print(perm_alone(result1))

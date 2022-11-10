@@ -1,10 +1,5 @@
 
-
-
-
-
-
-
+""" pas terminer """
 def binary_search(list_num , to_search):
     arrList = []
     low  = 0
@@ -40,5 +35,5 @@ testArray = [
 
 
 
-print(binary_search(testArray , 5))
+print(binary_search(testArray , 0))
 #print(binary_search(list_container , 10))
